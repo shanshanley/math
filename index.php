@@ -6,7 +6,7 @@
 <font face="arial" size="5" color="#ffffff">
 <center> Performance Task in Mathematics 9 </font> 
 <br> <br> 
-<a href="https://youtu.be/G7s5DTj118E"> <font face="arial" size="4" color="#03EE5C"> Clink here to access the Video Presentation
+<a href="https://youtu.be/G7s5DTj118E"> <font face="arial" size="4" color="#03EE5C"> Click here to access the Video Presentation
 <br> <br>
 <a href="https://docs.google.com/document/d/1ydIQquctU8sLwpUgsP9rwjbkbHr_R0BKxndefp5dfr4/edit?usp=sharing"> <font face="arial" size="4" color="#03EE5C"> Clink here to access the Drawing
 </center> </font> <br> <br>
